@@ -1,4 +1,4 @@
-# BLM1001 Python Lab Solutions
+# BLM1001 Python Lab Questions And Solutions
 This repository contains solutions to the lab questions for the BLM1001 class at Ankara University, implemented in Python.
 
 ## Requirements
