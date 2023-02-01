@@ -1,11 +1,5 @@
 # BLM1001 Python Lab Solutions
-This repository contains solutions to the lab questions for the BLM1001 class at school, implemented in Python.
-
-## Contents
-##### [Requirements](Requirements-heading)
-##### [Usage](Usage-heading)
-##### [Contributing](##Contributing-heading)
-
+This repository contains solutions to the lab questions for the BLM1001 class at university, implemented in Python.
 
 ## Requirements
 Python 3.x
