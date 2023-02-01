@@ -6,7 +6,7 @@ Python 3.x
 Knowledge of basic programming concepts and Python syntax
 ## Usage
 Clone the repository to your local machine
-$ git clone https://github.com/<your-username>/BLM1001-Python-Lab-Solutions.git
+$ git clone https://github.com/omerahat/BLM1001-Python-Lab-Solutions.git
 Navigate to the cloned repository
 
 $ cd BLM1001-Python-Lab-Solutions
