@@ -3,9 +3,7 @@ This repository contains solutions to the lab questions for the BLM1001 class at
 
 ## Contents
 ##### [Requirements](##Requirements)
-
 ##### [Usage](##Usage)
-
 ##### [Contributing](##Contributing)
 
 
