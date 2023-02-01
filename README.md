@@ -5,21 +5,21 @@ This repository contains solutions to the lab questions for the BLM1001 class at
 Python 3.x
 Knowledge of basic programming concepts and Python syntax
 ## Usage
-1. Clone the repository to your local machine
++ Clone the repository to your local machine
 ```
 $ git clone https://github.com/omerahat/BLM1001-Python-Lab-Solutions.git
 ```
 
-2. Navigate to the cloned repository
++ Navigate to the cloned repository
 ```
 $ cd BLM1001-Python-Lab-Solutions
 ```
-3. Navigate to the specific lab and question
++ Navigate to the specific lab and question
 ```
 $ cd Lab1/G1S1
 ```
 
-4. Run the solution for a specific lab question by executing the corresponding Python file
++ Run the solution for a specific lab question by executing the corresponding Python file
 ```
 $ python Solition.py
 ```
