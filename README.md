@@ -2,9 +2,9 @@
 This repository contains solutions to the lab questions for the BLM1001 class at school, implemented in Python.
 
 ## Contents
-##### [Requirements](##Requirements)
-##### [Usage](##Usage)
-##### [Contributing](##Contributing)
+##### [Requirements](Requirements-heading)
+##### [Usage](Usage-heading)
+##### [Contributing](##Contributing-heading)
 
 
 ## Requirements
