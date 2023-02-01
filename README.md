@@ -2,11 +2,11 @@
 This repository contains solutions to the lab questions for the BLM1001 class at school, implemented in Python.
 
 Contents
-[Go to Real Cool Heading section](##Requirements)
+[Requirements](##Requirements)
 
-[Go to Real Cool Heading section](##Usage)
+[Usage](##Usage)
 
-[Go to Real Cool Heading section](##Contributing)
+[Contributing](##Contributing)
 
 
 ##Requirements
