@@ -1,0 +1,27 @@
+BLM1001 Python Lab Çözümleri
+Bu depo, okulun BLM1001 sınıfındaki lab sorularının Python ile çözümlerini içermektedir.
+
+İçerikler
+Gereksinimler
+Kullanım
+Katkıda Bulunma
+Gereksinimler
+Python 3.x
+Temel programlama kavramları ve Python sözdizimine hakimiyet
+Kullanım
+Repoyu yerel makineye klonla
+shell
+Copy code
+$ git clone https://github.com/<kullanıcı-adın>/BLM1001-Python-Lab-Solutions.git
+Klonlanan depoya gidin
+shell
+Copy code
+$ cd BLM1001-Python-Lab-Solutions
+Belirli bir lab sorunun çözümünü, ilgili Python dosyasını çalıştırarak çalıştırın
+ruby
+Copy code
+$ python lab1_question1.py
+Katkıda Bulunma
+Ek çözümler veya mevcut çözümlere eklemeler yaparak katkıda bulunmak için çekinmeyin.
+Pull request'i yapmadan önce kodunuzun doğru biçimlendirildiğinden ve linter kontrollerinin geçtiğinden emin olun.
+Değişikliklerin açık ve kesin bir açıklamasını pull request içerisinde bulunması gerekmektedir.
