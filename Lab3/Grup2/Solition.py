@@ -1,24 +1,19 @@
-
-# f(x) fonksiyonunun tanımlayalım
 def f(x):
-    return x**4 - 4*x
+  return x**4 - 4*x
 
-# Riemann toplamını hesaplayan fonksiyon
-def riemann(a, b, n):
-    # Δx hesaplanması
-    delta_x = (b-a)/n
-    result = 0
-    # Her dikdörtgen için result değişkeninin güncellenmesi
-    for i in range(n):
-        result += f(a + i*delta_x)*delta_x
-    # Sonuç olarak result değişkeninin döndürülmesi
-    return result
+def riemann_sum(a, b, n):
+  delta_x = (b - a) / n
+  sum = 0
+  for i in range(n+1):
+    sum += f(a + i * delta_x) * delta_x
+  return sum
 
-# Kullanıcıdan a, b ve n değerlerinin alınması
-a = int(input("a değeri: "))
-b = int(input("b değeri: "))
-n = int(input("n değeri: "))
-# Riemann toplamının hesaplanması
-result = riemann(a, b, n)
-# Sonuçun 4 basamaklı virgülden sonra sayılarla yazdırılması
+# Kullanıcıdan değerleri alın
+a = int(input("a değerini girin: "))
+b = int(input("b değerini girin: "))
+n = int(input("n değerini girin: "))
+
+result = riemann_sum(a, b, n)
+
+# Sonucu 4 hane noktadan sonra yazdırın
 print("Sonuç: {:.4f}".format(result))
