@@ -6,12 +6,12 @@ def func1():
 	# Inputları saklamak için bir liste oluşturalım
     input_arr = []
 	
-    input1 = input()
+    input1 = input("Ögrenci Bilgisi: ")
     input1 = input1.strip() # Baştaki ve sondaki boşlukları sil
     input_first = ast.literal_eval(input1) # String ifadeyi liste olarak yorumla
     input_arr.append(input_first)
     while True: # Sürekli input almak için döngü
-        input2 = input()
+        input2 = input("Ögrenci Bilgisi: ")
         input2 = input2.strip()
         if input2 == "END": # Eğer input "END" ise döngüden çıkalım
             break
