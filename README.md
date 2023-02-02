@@ -27,3 +27,5 @@ $ python Solition.py
 Feel free to contribute by creating a pull request with additional solutions or improvements to existing ones.
 Before making a pull request, make sure that your code is properly formatted and passes the linter checks.
 Please include a clear and concise description of the changes made in the pull request.
+
+##### PS:There may be minor errors or omissions in some questions and will be corrected within 1 week. Thanks
